@@ -1,0 +1,12 @@
+{
+  "Author": "Warrior of WHAT",
+  "Name": "FCWheel",
+  "Punchline": "An in-game wheel spin for contests, giveaways, etc.",
+  "Description": "/fcwheel to open.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "wheel"
+  ]
+}
