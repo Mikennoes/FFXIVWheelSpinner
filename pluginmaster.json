@@ -1,0 +1,15 @@
+[
+  {
+    "InternalName": "FCWheel",
+    "Name": "FC Prize Wheel",
+    "Description": "A gambling and prize wheel for events.",
+    "Punchline": "Spin the wheel and crown a winner!",
+    "Author": "The Warrior of WHAT",
+    "RepoUrl": "https://github.com/Mikennoes/FFXIVWheelSpinner",
+    "ApplicableVersion": "any",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/Mikennoes/FFXIVWheelSpinner/releases/latest/download/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/Mikennoes/FFXIVWheelSpinner/main/images/icon.png"
+  }
+]
